@@ -1,0 +1,13 @@
+깃 강점: 같은파일에 대한 각기다른 버전 보관가능 ex: 다른부분만 마지막에 저장가능
+            같은파일을 가지고 여러명이 일 가능 
+깃허브:  깃 히스토리로 클라우드(깃허브웹사이트)에 업로드 
+
+깃 
+pull  : git pull origin master
+
+push: git status 
+git add .
+git commit -m "massage"
+gis push origin +master
+
+            
